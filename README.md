@@ -18,3 +18,6 @@
 
 - データはすべて `chrome.storage.local` に保存されます
 - 外部サーバーへの送信は一切ありません
+
+## Privacy Policy URL
+https://satok1652.github.io/CopyStock/privacy.html

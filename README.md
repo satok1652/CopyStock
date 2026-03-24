@@ -1,4 +1,4 @@
-# PasteBoard - Chrome拡張機能
+# CopyStock - Chrome拡張機能
 
 よく使うテキストをワンクリックでコピーできるツールです。
 
@@ -6,7 +6,7 @@
 
 ## ローカルでのインストール方法
 
-1. このフォルダ（`pasteboard-extension`）をPC上に配置する
+1. このフォルダ（`CopyStock`）をPC上に配置する
 2. Chromeで `chrome://extensions` を開く
 3. 右上の「**デベロッパーモード**」をオンにする
 4. 「**パッケージ化されていない拡張機能を読み込む**」をクリック
